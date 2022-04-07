@@ -61,8 +61,8 @@
 	                    "2 -> Add Files\n"+
 	                    "3 -> Search Files\n"+
 	                    "4 -> Delete Files\n"+
-	                    "5 -> Go Back\n"+
-	                    "6 -> Exit Program";
+	                    
+	                    "5.-> Exit Program";
 	    
 	    void showMenu() {
 	    	System.out.println(main_Menu);
